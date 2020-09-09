@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939200234693",
+    "firebase_url": "https://dynamiclinks-9b2f5.firebaseio.com",
+    "project_id": "dynamiclinks-9b2f5",
+    "storage_bucket": "dynamiclinks-9b2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939200234693:android:a7479b40996d26a4991cac",
+        "android_client_info": {
+          "package_name": "com.walkiriaapps.dynamiclinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939200234693-mlue9uqog4pqv76kd78jde33mll9mvk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walkiriaapps.dynamiclinks",
+            "certificate_hash": "ab1864b38a8314c4983f354dc90777faca307a03"
+          }
+        },
+        {
+          "client_id": "939200234693-2s2kvjh39o591qchmdo22hhaoho3bsvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkHr02miDm6ii8PYiBSHRKg4dRM9Wvbpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939200234693-2s2kvjh39o591qchmdo22hhaoho3bsvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
